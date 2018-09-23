@@ -1,0 +1,12 @@
+C:\Users\hanna\source\repos\WeatherProject\WeatherProject\WeatherProject\bin\Debug\netstandard2.0\WeatherProject.deps.json
+C:\Users\hanna\source\repos\WeatherProject\WeatherProject\WeatherProject\bin\Debug\netstandard2.0\WeatherProject.dll
+C:\Users\hanna\source\repos\WeatherProject\WeatherProject\WeatherProject\bin\Debug\netstandard2.0\WeatherProject.pdb
+C:\Users\hanna\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.csprojAssemblyReference.cache
+C:\Users\hanna\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hanna\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hanna\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.csproj.CoreCompileInputs.cache
+C:\Users\hanna\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.AssemblyInfoInputs.cache
+C:\Users\hanna\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.AssemblyInfo.cs
+C:\Users\hanna\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.dll
+C:\Users\hanna\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\WeatherProject.pdb
+C:\Users\hanna\source\repos\WeatherProject\WeatherProject\WeatherProject\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:WeatherProject"
+             x:Class="WeatherProject.MainPage">
+
+    <StackLayout Orientation="Vertical" BackgroundColor="CornflowerBlue">
+        <Label Text="{Binding DisplayName}" FontSize="Large" TextColor="White"
+                                            VerticalTextAlignment="Center" HorizontalTextAlignment="Center" HeightRequest="60"/>
+        <StackLayout Orientation="Horizontal">
+            <StackLayout Orientation="Vertical">
+                <Label Text="{Binding DisplayTemp}" TextColor="White" FontSize="Medium" HeightRequest="40" WidthRequest="150" />
+                <Label Text="   Expected today:" TextColor="White"/>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="   Max" TextColor="Red" />
+                    <Label Text= "{Binding DisplayTempMax}" TextColor="White" WidthRequest="150" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="   Min " TextColor="Blue" />
+                    <Label Text="{Binding DisplayTempMin}" TextColor="White" WidthRequest="150" />
+                </StackLayout>
+            </StackLayout>
+            <StackLayout Orientation="Vertical">
+                <Image Source="{Binding DisplayWeatherImage}" HeightRequest="50" WidthRequest="150" ></Image>
+                <Label Text="{Binding DisplayDescription}" TextColor="White" VerticalTextAlignment="Center" 
+                                                            HorizontalTextAlignment="Center" WidthRequest="150"/>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
